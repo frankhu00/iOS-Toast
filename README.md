@@ -47,13 +47,13 @@ Toast.isActive() {
 ## Toast
 Main class that generates toast objects
 + **_Toast.alert(message:, duration:, speed:, style:)_**
-⋅⋅* Static method that creates a toast object
-⋅⋅* Duration, speed, and style arguments are optional
+  - Static method that creates a toast object
+  - Duration, speed, and style arguments are optional
 + **_Toast.removeAllToasts()_**
-⋅⋅* Static method that forcefully removes all toast objects
+  - Static method that forcefully removes all toast objects
 + **_Toast.isActive(delay:, completion:)_**
-⋅⋅* Static method that runs completion block once all toast objects expire
-⋅⋅* Delay is optional and signifies the time interval between each check
+  - Static method that runs completion block once all toast objects expire
+  - Delay is optional and signifies the time interval between each check
 <br>
 <br>
 
