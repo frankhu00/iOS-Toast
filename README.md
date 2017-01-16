@@ -3,7 +3,7 @@ A simple and lightweight replication of Android's Toast for iOS. <br/>
 Built with Swift3
 
 ## Installation
-Just drag and drop [Toast.swift](https://github.com/frankhu00/iOS-Toast/blob/master/Toast.swift) into your project and you are ready to use it!
+Drag and drop [Toast.swift](https://github.com/frankhu00/iOS-Toast/blob/master/Toast.swift) into your project and you are ready to use it!
 
 ## Sample Usage
 
@@ -82,5 +82,5 @@ There are four cases:
 + **_top_** : Defines toast position to be horizontally centered with a spacing of 20 from the top
 + **_center_** : Defines the position to be both horizontally and vertically centered
 + **_bottom_** : Defines the position to be horizontally centered with a spacing of 20 from the bottom
-+ **_positionAt(CGPoint)_** : Pins the **center** of the toast onto the point defined
++ **_positionAt(:CGPoint)_** : Pins the **center** of the toast onto the point defined
 
