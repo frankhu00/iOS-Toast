@@ -53,23 +53,23 @@ Main class that generates toast objects
 ⋅⋅* Delay is optional and signifies the time interval between each check
 <br>
 <br>
----
+___
 
 <br>
 ## ToastStyle
 Supplementary class that instructs Toast class on toast style specifications <br>
 Below is a list of styling specifications:
-**_ + textColor
-+ backColor
-+ borderColor
-+ borderWidth
-+ fontSize
-+ cornerRadius
-+ padding
-+ centerAt : ToastPosition
-+ maxWidth
-+ numberOfLines
-+ lineBreakMode _**
++ **_textColor_**
++ **_backColor_**
++ **_borderColor_**
++ **_borderWidth_**
++ **_fontSize_**
++ **_cornerRadius_**
++ **_padding_**
++ **_centerAt : ToastPosition_**
++ **_maxWidth_**
++ **_numberOfLines_**
++ **_lineBreakMode_**
 <br>
 
 ### enum ToastPosition
