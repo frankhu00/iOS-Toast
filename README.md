@@ -3,7 +3,7 @@ A simple and lightweight replication of Android's Toast for iOS. <br/>
 Built with Swift3
 
 ## Installation
-Just drag and drop Toast.swift into your project
+Just drag and drop [Toast.swift](https://github.com/frankhu00/iOS-Toast/blob/master/Toast.swift) into your project and you are ready to use it!
 
 ## Sample Usage
 
