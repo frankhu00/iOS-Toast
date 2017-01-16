@@ -53,7 +53,7 @@ Main class that generates toast objects
 ⋅⋅* Delay is optional and signifies the time interval between each check
 <br>
 <br>
-___
+-------
 
 <br>
 ## ToastStyle
