@@ -76,12 +76,8 @@ Below is a list of styling specifications:
 ### enum ToastPosition
 This is used to define the position at which the toast will appear <br>
 There are four cases:
-+ **_top_**
-⋅⋅* Defines toast position to be horizontally centered with a spacing of 20 from the top
-+ **_center_**
-⋅⋅* Defines the position to be both horizontally and vertically centered
-+ **_bottom_**
-⋅⋅* Defines the position to be horizontally centered with a spacing of 20 from the bottom
-+ **_positionAt(CGPoint)_**
-⋅⋅* Pins the **center** of the toast onto the point defined
++ **_top_** : Defines toast position to be horizontally centered with a spacing of 20 from the top
++ **_center_** : Defines the position to be both horizontally and vertically centered
++ **_bottom_** : Defines the position to be horizontally centered with a spacing of 20 from the bottom
++ **_positionAt(CGPoint)_** : Pins the **center** of the toast onto the point defined
 
