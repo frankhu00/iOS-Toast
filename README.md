@@ -2,6 +2,9 @@
 A simple and lightweight replication of Android's Toast for iOS. <br/>
 Built with Swift3
 
+## Installation
+Just drag and drop Toast.swift into your project
+
 ## Sample Usage
 
 ```swift
